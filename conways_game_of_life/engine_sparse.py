@@ -63,7 +63,7 @@ class SparseEngine:
         return self.live_cells
 
     # ------------------------------------------------------------------
-    # Ruleset support (for oral: "change to a different ruleset")
+    # Ruleset support
     # ------------------------------------------------------------------
 
     def step_custom(self, birth=(3,), survival=(2, 3)):
@@ -95,7 +95,7 @@ class SparseEngine:
         return self.live_cells
 
     # ------------------------------------------------------------------
-    # Toroidal (wrap-around) boundary — mentioned in professor's review
+    # Toroidal (wrap-around) boundary
     # ------------------------------------------------------------------
 
     def step_toroidal(self, width, height):
@@ -125,7 +125,7 @@ class SparseEngine:
         return self.live_cells
 
     # ------------------------------------------------------------------
-    # Cycle detection (professor's review suggestion)
+    # Cycle detection
     # ------------------------------------------------------------------
 
     def fingerprint(self):
