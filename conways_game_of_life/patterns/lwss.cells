@@ -1,0 +1,7 @@
+!Lightweight Spaceship (LWSS)
+!The smallest known orthogonal spaceship.
+!Moves horizontally at c/2.
+.O..O
+O
+O...O
+OOOO

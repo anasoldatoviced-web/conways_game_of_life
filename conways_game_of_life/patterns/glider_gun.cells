@@ -1,0 +1,12 @@
+!Gosper Glider Gun
+!The first known gun pattern, discovered by Bill Gosper in 1970.
+!Produces a new glider every 30 generations.
+........................O
+......................O.O
+............OO......OO............OO
+...........O...O....OO............OO
+OO........O.....O...OO
+OO........O...O.OO....O.O
+..........O.....O.......O
+...........O...O
+............OO

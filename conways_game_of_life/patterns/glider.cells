@@ -1,0 +1,6 @@
+!Glider
+!The simplest spaceship in Conway's Game of Life.
+!Moves diagonally at c/4.
+.O
+..O
+OOO

@@ -1,0 +1,6 @@
+!Pentadecathlon
+!A period-15 oscillator — the longest period among common oscillators.
+!Useful for cycle-detection tests (period = 15).
+..O....O
+OO.OOOO.OO
+..O....O

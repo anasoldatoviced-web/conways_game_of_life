@@ -1,0 +1,6 @@
+!R-pentomino
+!A methuselah: a small pattern that takes ~1100 generations to stabilise.
+!Final state contains 116 cells: 8 gliders, blocks, blinkers, etc.
+.OO
+OO
+.O
