@@ -85,6 +85,7 @@ class Renderer:
 
         # Cells that appeared (need to be drawn)
         born = live_cells - self._prev_live
+        #self._prev_live is the previous set of live cells, so this calculates the new cells that have been born
         # Cells that died (need to be erased)
         died = self._prev_live - live_cells
 
